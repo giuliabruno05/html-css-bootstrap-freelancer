@@ -26,12 +26,23 @@ footer{
     min-height: 80px;
     text-align: center;
 }
+
+
+
+
+
+
+
+
+
+
 /* DEBUG */
-[class*=col]{
+.col{
     background-color: orange;
     border: 1px solid white;
-   
-    
+}
+header.col-2{ 
+    background-color: #3a546d;
 }
 .hero{ 
      background-color: #1aba9a;
